@@ -62,7 +62,7 @@ sample_input = {
 ```
 
 ## Performance du Modèle
-- Accuracy : 88.3%
+- Accuracy : 89%
 - Performant sur la prédiction des prêts accordés
 
 ## Améliorations Possibles
