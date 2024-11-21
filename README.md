@@ -4,14 +4,16 @@
 Ce projet est un exercice utilisant le Machine Learning pour prédire l'éligibilité d'un client à un crédit bancaire. Il se base sur différentes caractéristiques du demandeur comme le revenu, l'historique de crédit, le statut matrimonial, etc.
 
 ## Structure du Projet
-.
-├── data/
-│ └── loan-data-673b233f1c1cb921157550.csv
-├── model/
-│ └── loan_prediction_model.joblib
-├── sebastien_gerard_prediction_eligibilite_credit.ipynb
-├── README.md
-└── requirements.txt
+
+- racine/
+  - data/
+    - loan-data-673b233f1c1cb921157550.csv
+  - model/
+    - loan_prediction_model.joblib
+  - sebastien_gerard_prediction_eligibilite_credit.ipynb
+  - README.md
+  - requirements.txt
+
 
 ## Fonctionnalités
 - Analyse exploratoire des données
